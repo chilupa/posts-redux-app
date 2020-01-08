@@ -17,3 +17,5 @@ You will also see any lint errors in the console.
 ```
 yarn add node-sass
 ```
+
+Added one line in develop branch without creating any feature branch.
